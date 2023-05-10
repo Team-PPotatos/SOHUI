@@ -16,4 +16,4 @@
 
 ---
 # 🐬커뮤니케이션 다이어그램
-![img.png](img.png)
+![img.png](src/main/java/org/example/img.png)
